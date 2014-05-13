@@ -6,7 +6,7 @@ set -x
 MATRIX_SRC="/bin /boot /etc /lib /lib64 /mnt /opt /root /run /sbin /srv /tmp /usr /var"
 
 # Destination directory
-MATRIX_DST=/matrix-again
+MATRIX_DST=/matrix
 
 mkdir -pv ${MATRIX_DST}
 
